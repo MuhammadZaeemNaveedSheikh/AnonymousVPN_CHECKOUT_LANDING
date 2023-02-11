@@ -1,0 +1,279 @@
+/* No Content: https://www.expressvpn.com/frtr/assets/css/astyle.css?xvid=9RM1_1r0nlOpcgQGCJoiJnZNyg6GuUyhXYS3z_P00nPtvhiE74GcJw%253D%253D&referer_url=https%3A%2F%2Fwww.expressvpn.com%2F&page_url=https%3A%2F%2Fwww.expressvpn.com%2Forder */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f7f7f7 !important;
+}
+
+body nav .nav-logo {
+    margin-right: auto;
+}
+
+nav {
+    /* border: 2px solid red; */
+}
+
+.nav-logo-img {
+    align-self: center;
+    height: 4.5rem;
+    width: 6.5rem;
+
+
+}
+
+h1 {
+    display: block;
+    color: #001d2f;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+
+}
+
+.para1 {
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+    margin-right: 1rem;
+
+}
+
+.plans {
+    margin-right: 1rem;
+}
+
+.signup {
+    display: block;
+    margin-top: 4rem;
+    line-height: 4.4rem;
+    font-weight: 700;
+}
+
+.step1 {
+    background: #334a59;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1;
+    padding: 2px 10px;
+    position: relative;
+    top: -3px;
+    min-width: 63px;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: -2px;
+}
+
+.step1-green {
+    color: #4ca952;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.9rem;
+    font-weight: 700;
+}
+
+.step1-black {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.7rem;
+    font-weight: 700;
+
+}
+
+.order_page .order-summary-box {
+    padding: 0;
+    border-radius: 4px;
+    border: 1px solid #a2acb3;
+}
+
+.order-summary-box {
+    margin-top: 22px;
+    border-radius: 5px;
+    background: #fff;
+    padding: 22px 28px 20px;
+    color: #767676;
+}
+
+.order_page .order-summary-box h4 {
+    padding: 20px 20px 0;
+}
+.order_page .order-summary-box h4 {
+    font-weight: bold;
+    padding: 30px 30px 10px;
+}
+.order-summary-box>h4 {
+    margin-bottom: 1rem;
+}
+.order-summary-box h4 {
+    color: #333;
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+.order_page .order-summary-box h4 {
+    padding: 20px 20px 0;
+}
+.order_page .order-summary-box h4 {
+    font-weight: bold;
+    padding: 30px 30px 10px;
+}
+.order-summary-box>h4 {
+    margin-bottom: 1rem;
+}
+.order-summary-box h4 {
+    color: #333;
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    width: 100%;
+}
+
+.order_page .payment-methods {
+    margin-top: 20px;
+}
+
+.order_page .panel {
+    border-color: #a2acb3;
+    box-shadow: none;
+}
+.order_page .panel-default {
+    border: 1px solid #a9adaf;
+    border-radius: 5px;
+}
+.panel-group .panel {
+    margin-bottom: 0;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.panel-default {
+    border-color: #ddd;
+}
+
+.order_page .form-control {
+    color: #001d2f;
+    height: 5rem;
+    font-size: 1.2rem;
+    line-height: 100%;
+    padding: 1.8rem 1.6rem;
+    border-radius: 0.5rem;
+    border-color: #a2acb3;
+}
+
+.step-number, .order_page.minimal .step .step-number {
+    display: inline-block;
+    margin-bottom: 0;
+    min-width: 2.4rem;
+    width: 2.4rem;
+    height: 2.4rem;
+}
+
+.order_page .step .step-number {
+    background: #334a59;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1;
+    padding: 2px 10px;
+    position: relative;
+    top: -3px;
+    min-width: 63px;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: -2px;
+}
+
+
+
+.card {
+    
+    border-radius: 20px !important;
+    margin: 0;
+    box-shadow: inset 0 0 0 4px #4ca952;
+    position: relative;
+    top: 1;
+}
+
+.c-details h4 {
+    
+    margin: 10px auto 40px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.7rem;
+}
+
+.text1 {
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-right: 0;
+    color: #001d2f;
+    vertical-align: top
+
+}
+
+.text2 {
+    
+    color: #001d2f;
+    font-size: 44px;
+    font-weight: bold;
+    display: inline;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer-menu {
+    display: flex;
+    flex-flow: column wrap;
+    padding: 0 4rem 3rem 4rem;
+}
+.footer-menu-col {
+    margin-bottom: 2.5rem;
+}
+ol, ul {
+    list-style: none;
+}
+
+.footer-menu-title {
+    color: #ccd2d5;
+    margin-bottom: 1rem;
+}
+
+element.style {
+}
+.footer-dropdown {
+    height: 4rem;
+    position: relative;
+}
+.footer-dropdown {
+    display: none;
+    margin-top: 3rem;
+}
+.footer-dropdown {
+    height: 4rem;
+    position: relative;
+    display: none;
+    margin-top: 3rem;
+}
+
+.footer-bottom {
+    background-color: rgba(0,0,0,0.16);
+    padding: 3rem 4rem;
+}
+
+.footer {
+    /* background-color: #001d2f; */
+    overflow: hidden;
+    padding-top: 8rem;
+}
+
+
+
